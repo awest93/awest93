@@ -1,4 +1,4 @@
-### Hi there 👋
+### Добрый день. 👋
 
 <!--
 **awest93/awest93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
