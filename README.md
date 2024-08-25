@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://drive.google.com/file/d/1n2AQPtBx8kccW5vI8PFhPUZDcO7tPWUj/view?usp=sharing" /> </p><br>
+<p align="center"> <img src="https://drive.google.com/uc?export=view&id=1n2AQPtBx8kccW5vI8PFhPUZDcO7tPWUj" /> </p><br>
 
 Я специализируюсь на разработке нейронных сетей с использованием фреймворков TensorFlow и Keras. Также я имею опыт работы с библиотеками NumPy, Pandas и SkLearn для анализа данных и предобработки.
 
