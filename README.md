@@ -31,7 +31,9 @@
   
   Стек: Python, scikit-learn, pandas, Jupyter Notebook
 
-Способ связи — awest93@yandex.ru.
+Способ связи:
+  - awest93@yandex.ru
+  - https://t.me/npavelp
 
 <!--
 **awest93/awest93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
