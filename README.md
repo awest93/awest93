@@ -34,6 +34,24 @@
   
   <b>Стек</b>: Python, scikit-learn, pandas, Jupyter Notebook
 
+  <h2><b>Телеграм бот для информирования о погоде</b></h2>
+  
+  Выполнено создание приложения обеспечивающего работу телеграм бота выдающего информацию о погоде. [Ссылка на проект](https://github.com/awest93/test_weather_bot)
+  
+  <b>Стек</b>: Python, aiogram, sqlite
+
+  <h2><b>Десктопное приложение для взаимодействия с API openrouter.ai</b></h2>
+  
+  Выполнено создание приложения позволяющего взаимодействовать с моделями доступными на openrouter.ai. [Ссылка на проект](https://github.com/awest93/desktop-ai)
+  
+  <b>Стек</b>: Python, flet, sqlite
+
+  <h2><b>Кросс-платформенное приложение для ведения списка задач</b></h2>
+  
+  Выполнено создание приложения позволяющего вести список задач. [Ссылка на проект](https://github.com/awest93/simple-flutter-tasklist)
+  
+  <b>Стек</b>: Python, flutter
+
 <h1><b>Способ связи</b></h1>
 
   - awest93@yandex.ru
